@@ -1,52 +1,67 @@
-# Hi there! I'm *Mahalakshmi Pilla* 👋  
+# 👩‍💻 Mahalakshmi Pilla | GitHub
 
-Aspiring **Software Engineer** with a passion for **AI & Data Science**. As a **Computer Science student**, I’m on a mission to develop technology that makes an impact. I thrive on solving **real-world problems** through **efficient algorithms** and **data-driven insights**. 🚀  
-
----
-
-## 💻 About Me  
-- 🎓 **3rd-Year B.Tech Undergrad** | Computer Science & Engineering  
-- 🚀 Passionate about **Software Development, AI, ML and Data Science**  
-- 🌱 Currently learning **advanced backend development** and **AI/ML concepts**  
-- 💡 Interested in **machine learning, data structures and scalable applications**  
-- 🛠️ Working on projects to enhance my **coding skills and problem-solving ability**  
-- 📫 Reach me at: [pillamahalakshmi2004@gmail.com] 
+Aspiring **Software Engineer** passionate about **Full Stack Development**, **Artificial Intelligence**, and **Data Science**.  
+Currently a final-year **B.Tech Computer Science & Engineering** student, I specialize in building scalable, intelligent, and user-centric applications. My goal is to create impactful solutions by combining the best of software engineering, machine learning, and thoughtful UI/UX.
 
 ---
 
-## 🛠 Technical Stack  
+## 💼 About Me
 
-### Core Skills  
-- **Languages**: Python, c++, java
-- **Data Structures & Algorithms (DSA)**  
+- 🎓 Final-Year B.Tech | Computer Science & Engineering  
+- 🧠 Passionate about **AI/ML**, **Full Stack Development**, and **Cloud-Enabled Applications**  
+- 💡 Strong interest in **scalable systems**, **real-world problem-solving**, and **intelligent automation**  
+- 🔧 Built and deployed **end-to-end applications** with the **MERN stack** and **cloud integrations**  
+- 📈 Focused on improving **DSA**, **system design**, and **DevOps best practices**
+
+---
+
+## 🛠 Technical Skills
+
+### 👨‍💻 Core Stack
+- **Languages**: Python, C++, Java  
+- **Frontend**: React.js, HTML5, CSS3, Tailwind CSS  
+- **Backend**: Node.js, Express.js, REST APIs  
+- **Database**: MongoDB  
 - **Version Control**: Git & GitHub  
+- **Problem Solving**: Data Structures & Algorithms
 
-### AI/ML & Data Science  
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, Tensor Flow 
-- **Development Tools**: Jupyter Notebook, Colab, VS Code
+### ☁️ Cloud & DevOps
+- **Cloud**: AWS (EC2, S3, IAM – foundational level)  
+- **DevOps**: Basics of CI/CD, Docker, GitHub Actions (beginner level)  
 
----
-
-## 🎯 What I Bring to the Table  
-✔ **Strong problem-solving mindset**  
-✔ **Hands-on experience with AI/ML projects**  
-✔ **Ability to learn and adapt quickly**  
-✔ **Passion for innovation & optimization**  
+### 🤖 AI/ML & Data Science
+- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow  
+- **Tools**: Jupyter Notebook, Google Colab, VS Code  
 
 ---
 
-## 🌱 Current Learning Goals  
-- 📌 Mastering **DSA for coding interviews**  
-- 🔨 Building **scalable AI applications**  
+## ✅ Strengths
+
+- ✔️ **Hands-on Full Stack Projects** – e.g., *X Clone* using the MERN stack  
+- ✔️ **AI-Integrated Applications** – combining ML models with real use cases  
+- ✔️ **Cloud Awareness** – deployed small projects using **AWS EC2 and S3**  
+- ✔️ **Problem Solver** – strong foundation in DSA and algorithmic thinking  
+- ✔️ **Beginner in DevOps** – understanding of basic CI/CD pipelines & Docker  
+- ✔️ **Fast Learner** – eager to explore new tools and technologies  
+- ✔️ **Team-Oriented** – collaborative, code-quality focused approach  
+
+---
+
+## 🎯 Current Focus
+
+- 💻 Mastering **DSA** for technical interviews  
+- 🔨 Building **cloud-ready full stack applications**  
+- ☁️ Learning **AWS and DevOps tools** (CI/CD, Docker, deployment)  
 - 🤝 Contributing to **open-source projects**  
-- 💼 Preparing for **Software Engineer roles**  
+- 💼 Preparing for **Software Engineer roles** in development and AI domains  
 
 ---
 
-## 📫 Let's Connect  
-- **LinkedIn**: [PillaMahalakshmi](https://linkedin.com/in/PillaMahalakshmi)  
-- **Email**: [pillamahalakshmi2004@gmail.com](mailto:pillamahalakshmi2004@gmail.com)  
+## 📬 Let’s Connect
+
+- 🔗 [LinkedIn – PillaMahalakshmi](https://linkedin.com/in/PillaMahalakshmi)  
+- 📧 [pillamahalakshmi2004@gmail.com](mailto:pillamahalakshmi2004@gmail.com)  
 
 ---
 
-*"Driven by logic, powered by innovation—engineering solutions for tomorrow."* 🚀  
+### 🌟 Open to collaborations, internships, and full-time opportunities.
